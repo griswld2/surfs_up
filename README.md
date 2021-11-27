@@ -12,3 +12,9 @@ The results of the data that we were able to query shows the following differenc
 
 ## Summary
 In summary, the data shows that Hawaii has splendid temperatures year round. Opening a business in Hawaii that is focused on surfing and selling ice cream should be successful based off of Hawaii's terrific climate for both activities. 
+
+Two additional queries were performed to look at Hawaii's precipitation in June and December as this is also a decisive factor. December shows a slightly higher amount of average precipitation, but both months saw very little precipitation. 
+
+![alt text](https://github.com/griswld2/surfs_up/blob/main/June%20Precipitation.PNG)
+
+![alt text](https://github.com/griswld2/surfs_up/blob/main/December%20Precipitation.PNG)
